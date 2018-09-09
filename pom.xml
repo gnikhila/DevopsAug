@@ -196,7 +196,7 @@
 		<finalName>addressbook</finalName>
     </build>
 	
-	  
+	<!--
     <reporting>
     <plugins>
       <plugin>
@@ -206,6 +206,7 @@
       </plugin>
     </plugins>
   </reporting>
+  -->
   <reporting>
         <plugins>
             <plugin>
